@@ -1,0 +1,23 @@
+name: 9ui
+favicon: null
+layout_spectrum: 0.6362852568272501
+typography_spectrum: 0.11273778812028468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.05836217221803963
+  lightness: 0.7659505668561906
+  saturation: 0.6204311768524349
+  rhythmicContrast: 0.4823009087704122
+purpose: []
